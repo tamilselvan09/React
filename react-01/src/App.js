@@ -1,16 +1,13 @@
-import compB from "./props/compB";
-function app(){
+import React from 'react'
+import Message from './function/Message'
+
+const App = () => {
+  return (
+    <div>
+      <Message/>
+    </div>
     
-    return(
-        
-          <div>
-            <navbar />
-            <compB />
-          </div>
-
-
-    );
-
-
+  )
 }
-export default app;
+
+export default App
