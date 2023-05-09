@@ -1,13 +1,14 @@
-import Message from './components/Message'
-import Movie from './components/Movie'
+import './css/airtel.css'
+import Navbar from './Navbar/Navbar';
 
 let  App =()=>  {
   return <div>
+    <Navbar />
       <h1>App Component</h1>
      <hr />
-     <Message />
-     <hr />
-     <Movie />
+     <button className= "btn btn-success"></button>
+
+     
     </div>
 }
 
