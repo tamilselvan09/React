@@ -2,7 +2,7 @@ import React from 'react'
 class Message extends React.Component {
 
     state = {
-        msg: "Hello"
+        msg: "All Is Well"
     }
     gmHandler = () => {
         this.setState({

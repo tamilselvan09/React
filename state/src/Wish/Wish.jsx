@@ -18,7 +18,7 @@ class Wish extends Component {
     render() {
         return (
             <div>
-                <h2>Wish Message:{this.state.msg}</h2>
+                <h1>Wish Message:{this.state.msg}</h1>
                 <button onClick={this.gmHaldler}>Morning</button>
                 <button onClick={this.gaHaldler} >Afternoon</button>
                 <button onClick={this.geHaldler} >Evening</button>
