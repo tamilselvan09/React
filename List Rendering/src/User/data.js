@@ -1,0 +1,23 @@
+let users = [{ "id": 1, "name": "Ollie", "email": "ogeistmann0@amazon.co.jp", "gender": "Male" },
+{ "id": 2, "name": "Dannel", "email": "dpaolone1@amazon.com", "gender": "Non-binary" },
+{ "id": 3, "name": "Giana", "email": "gcuttles2@godaddy.com", "gender": "Female" },
+{ "id": 4, "name": "Alexei", "email": "afairnie3@ifeng.com", "gender": "Male" },
+{ "id": 5, "name": "Isaak", "email": "iskippen4@histats.com", "gender": "Male" },
+{ "id": 6, "name": "Mariana", "email": "mmorecomb5@desdev.cn", "gender": "Female" },
+{ "id": 7, "name": "Enriqueta", "email": "eklemenz6@ibm.com", "gender": "Female" },
+{ "id": 8, "name": "Lyndsay", "email": "lgoodrich7@intel.com", "gender": "Female" },
+{ "id": 9, "name": "Sheba", "email": "sbunten8@elegantthemes.com", "gender": "Female" },
+{ "id": 10, "name": "Zacharia", "email": "zshercliff9@ebay.com", "gender": "Male" },
+{ "id": 11, "name": "Dan", "email": "dlovegrovea@homestead.com", "gender": "Male" },
+{ "id": 12, "name": "Fredrick", "email": "fsorob@simplemachines.org", "gender": "Agender" },
+{ "id": 13, "name": "Gareth", "email": "gblownc@qq.com", "gender": "Male" },
+{ "id": 14, "name": "Towny", "email": "thambidged@merriam-webster.com", "gender": "Male" },
+{ "id": 15, "name": "Valeria", "email": "vstrusse@wikipedia.org", "gender": "Female" },
+{ "id": 16, "name": "Liuka", "email": "lgouldf@symantec.com", "gender": "Female" },
+{ "id": 17, "name": "Sigismund", "email": "swillemang@skype.com", "gender": "Male" },
+{ "id": 18, "name": "Cassi", "email": "ccancotth@ezinearticles.com", "gender": "Female" },
+{ "id": 19, "name": "Gasper", "email": "gpendreighi@unblog.fr", "gender": "Male" },
+{ "id": 20, "name": "Wynny", "email": "wwrigglesworthj@uol.com.br", "gender": "Female" },
+ ]
+
+export default users
