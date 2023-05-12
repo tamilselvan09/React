@@ -1,0 +1,4 @@
+API URL :https://dummyjson.com/users
+Method Type : GET
+Access : public
+Required Filed : None
