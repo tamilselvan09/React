@@ -1,4 +1,4 @@
-//reducer is pure function
+
 import { USER_REQ, USER_SUCCESS, USER_FAILURE } from './user.action'
 let initialState = {
     users: []

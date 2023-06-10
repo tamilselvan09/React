@@ -1,5 +1,5 @@
 import Axios from 'axios'
-//action types
+
 let USER_REQ = 'USER_REQ'
 let USER_SUCCESS = 'USER_SUCCESS'
 let USER_FAILURE = 'USER_FAILURE'

@@ -24,7 +24,8 @@ const Login =()=>{
                         <input type="text" onChange={emailHandler}/>
                         <label> Password:</label>
                         <input type="text" onChange={passwordHandler}/>
-                        <input type="submit" value="login" />
+                        <button className="btn btn-primary"
+                        >Submit</button>
                     </form>
                 </div>
             </div>

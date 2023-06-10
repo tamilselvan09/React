@@ -6,7 +6,7 @@ const App = () => {
     return (
         <div>
             <Provider store={store}>
-                <h2>App </h2>
+                <h2>App Component </h2>
                 <hr />
                 <User />
             </Provider>
